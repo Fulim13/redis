@@ -21,3 +21,9 @@ set age 24
 # The returned age is string
 get age
 ```
+
+# Reference
+
+https://youtu.be/xaA_Gb0L_kQ?si=dOjYhKbo1MmleUiN
+https://youtu.be/Fd6KMDjBY34?si=SJVZxi179GQ9hGKk
+https://youtu.be/dx0LdO0GbbQ?si=g3v0PD7GWtYC9xyi
